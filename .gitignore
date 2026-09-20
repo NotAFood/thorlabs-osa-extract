@@ -1,0 +1,8 @@
+.venv/
+.remember/
+.DS_Store
+__pycache__/
+
+# measurement data
+*.spf2
+*.csv
